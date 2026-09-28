@@ -1,0 +1,6 @@
+{
+  "name": "Finite-Dimensional Dilaton Studio v5.0",
+  "description": "Interactive theoretical and computational workbench for Finite-Dimensional Modular Theory, Non-Commutative Relative-Entropy Geometry, Universal Rotated Petz Inversion, Many-Body MPS Scaling, SSS Matrix Duals, and Symplectic Automaton Control.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
