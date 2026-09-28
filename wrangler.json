@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "finite-dimensional-modular-theory",
+  "name": "finite-dimensional-modular-theory-v5-final",
   "assets": {
     "directory": "./dist"
   },
